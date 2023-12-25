@@ -1,0 +1,20 @@
+{
+  "name": "vite-02---js-modules---proj-cz2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^5.0.10"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "three": "^0.160.0"
+  }
+}
